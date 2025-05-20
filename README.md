@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Arthur23730.github.io | Arthur23730</title>
 <meta name="generator" content="Jekyll v3.10.0">
 <meta property="og:title" content="Arthur23730.github.io">
 <meta property="og:locale" content="en_US">
@@ -39,7 +38,6 @@
       
       
 
-      <h1 id="arthur23730githubio">Arthur23730.github.io</h1>
 
 	<meta charset="UTF-8">
 	<title> » Beachcam</title>
