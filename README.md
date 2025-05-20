@@ -1,1 +1,2 @@
 # Arthur23730.github.io
+<video id="mediaplaybackdiv_live_ipc_ic_videoplayer" muted="" preload="none" style="width: 100%; height: 100%; background-color: rgb(0, 0, 0); display: block; object-fit: fill;" src="blob:https://ipcamlive.com/9ee39a2f-e755-445f-8fb7-aeb53d38e2f3" poster="https://s124.ipcamlive.com/streams/7cixxggpl56oh8w0t/snapshot.jpg">Your browser does not capable to play this content.</video>
