@@ -36,7 +36,7 @@
   <body data-rsssl="1" class="wp-singular page-template-default page page-id-1222 wp-theme-Divi wp-child-theme-Divi-child et-tb-has-template et-tb-has-footer et_pb_button_helper_class et_fixed_nav et_show_nav et_secondary_nav_enabled et_secondary_nav_two_panels et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_cover_background et_pb_gutter windows et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db chrome">
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://arthur23730.github.io/">Arthur23730</a></h1>
+      
       
 
       <h1 id="arthur23730githubio">Arthur23730.github.io</h1>
