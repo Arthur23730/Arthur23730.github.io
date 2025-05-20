@@ -1,5 +1,46 @@
 # Arthur23730.github.io
-<html lang="nl-NL" class="js"><head>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Arthur23730.github.io | Arthur23730</title>
+<meta name="generator" content="Jekyll v3.10.0">
+<meta property="og:title" content="Arthur23730.github.io">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://arthur23730.github.io/">
+<meta property="og:url" content="https://arthur23730.github.io/">
+<meta property="og:site_name" content="Arthur23730">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Arthur23730.github.io">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"Arthur23730.github.io","name":"Arthur23730","url":"https://arthur23730.github.io/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=d675e78ca493ba4fc50106e9223a916d75684ef8">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body data-rsssl="1" class="wp-singular page-template-default page page-id-1222 wp-theme-Divi wp-child-theme-Divi-child et-tb-has-template et-tb-has-footer et_pb_button_helper_class et_fixed_nav et_show_nav et_secondary_nav_enabled et_secondary_nav_two_panels et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_cover_background et_pb_gutter windows et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db chrome">
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://arthur23730.github.io/">Arthur23730</a></h1>
+      
+
+      <h1 id="arthur23730githubio">Arthur23730.github.io</h1>
+
 	<meta charset="UTF-8">
 	<title> » Beachcam</title>
 				<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -155,95 +196,17 @@ jqueryParams.length&&$.each(jqueryParams,function(e,r){if("function"==typeof r){
 <link rel="apple-touch-icon" href="https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/cropped-beachclubblankenberge-favicon-180x180.png">
 <meta name="msapplication-TileImage" content="https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/cropped-beachclubblankenberge-favicon-270x270.png">
 <style id="et-critical-inline-css">body,.et_pb_column_1_2 .et_quote_content blockquote cite,.et_pb_column_1_2 .et_link_content a.et_link_main_url,.et_pb_column_1_3 .et_quote_content blockquote cite,.et_pb_column_3_8 .et_quote_content blockquote cite,.et_pb_column_1_4 .et_quote_content blockquote cite,.et_pb_blog_grid .et_quote_content blockquote cite,.et_pb_column_1_3 .et_link_content a.et_link_main_url,.et_pb_column_3_8 .et_link_content a.et_link_main_url,.et_pb_column_1_4 .et_link_content a.et_link_main_url,.et_pb_blog_grid .et_link_content a.et_link_main_url,body .et_pb_bg_layout_light .et_pb_post p,body .et_pb_bg_layout_dark .et_pb_post p{font-size:14px}.et_pb_slide_content,.et_pb_best_value{font-size:15px}.nav li ul{border-color:#02b9df}.et_secondary_nav_enabled #page-container #top-header{background-color:#02b9df!important}#et-secondary-nav li ul{background-color:#02b9df}#top-menu li.current-menu-ancestor>a,#top-menu li.current-menu-item>a,#top-menu li.current_page_item>a{color:#02b9df}#main-footer .footer-widget h4,#main-footer .widget_block h1,#main-footer .widget_block h2,#main-footer .widget_block h3,#main-footer .widget_block h4,#main-footer .widget_block h5,#main-footer .widget_block h6{color:#02b9df}.footer-widget li:before{border-color:#02b9df}#et-footer-nav .bottom-nav li.current-menu-item a{color:#02b9df}@media only screen and (min-width:981px){.et_header_style_left #et-top-navigation,.et_header_style_split #et-top-navigation{padding:17px 0 0 0}.et_header_style_left #et-top-navigation nav>ul>li>a,.et_header_style_split #et-top-navigation nav>ul>li>a{padding-bottom:17px}.et_header_style_split .centered-inline-logo-wrap{width:34px;margin:-34px 0}.et_header_style_split .centered-inline-logo-wrap #logo{max-height:34px}.et_pb_svg_logo.et_header_style_split .centered-inline-logo-wrap #logo{height:34px}.et_header_style_centered #top-menu>li>a{padding-bottom:6px}.et_header_style_slide #et-top-navigation,.et_header_style_fullscreen #et-top-navigation{padding:8px 0 8px 0!important}.et_header_style_centered #main-header .logo_container{height:34px}.et_fixed_nav #page-container .et-fixed-header#top-header{background-color:#02b9df!important}.et_fixed_nav #page-container .et-fixed-header#top-header #et-secondary-nav li ul{background-color:#02b9df}.et-fixed-header #top-menu li.current-menu-ancestor>a,.et-fixed-header #top-menu li.current-menu-item>a,.et-fixed-header #top-menu li.current_page_item>a{color:#02b9df!important}}@media only screen and (min-width:1350px){.et_pb_row{padding:27px 0}.et_pb_section{padding:54px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:81px}.et_pb_fullwidth_section{padding:0}}.et_pb_section_0_tb_footer.et_pb_section{padding-right:5%;padding-left:5%;background-color:#353535!important}.et_pb_row_0_tb_footer,body #page-container .et-db #et-boc .et-l .et_pb_row_0_tb_footer.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_0_tb_footer.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_0_tb_footer.et_pb_row,.et_pb_row_1_tb_footer,body #page-container .et-db #et-boc .et-l .et_pb_row_1_tb_footer.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_1_tb_footer.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_1_tb_footer.et_pb_row{width:100%;max-width:2560px}.et_pb_image_0_tb_footer,.et_pb_image_1_tb_footer,.et_pb_image_2_tb_footer{padding-right:3%;padding-left:3%;text-align:center}.et_pb_section_1_tb_footer.et_pb_section{padding-top:0px;padding-bottom:0px;margin-top:0px;margin-bottom:0px}.et_pb_row_1_tb_footer{margin:auto;align-items:center}.et_pb_image_3_tb_footer,.et_pb_image_4_tb_footer,.et_pb_image_5_tb_footer,.et_pb_image_6_tb_footer,.et_pb_image_7_tb_footer,.et_pb_image_8_tb_footer,.et_pb_image_9_tb_footer,.et_pb_image_10_tb_footer{margin-right:1%!important;margin-left:1%!important;width:10%;&#91;php&#93;display:inline-block;&#91;/php&#93;text-align:left;margin-left:0}.et_pb_row_0_tb_footer.et_pb_row{padding-top:0px!important;padding-bottom:0px!important;margin-top:0px!important;margin-left:auto!important;margin-right:auto!important;padding-top:0px;padding-bottom:0px}.et_pb_row_1_tb_footer.et_pb_row{padding-top:0px!important;padding-right:0px!important;padding-bottom:0px!important;padding-left:3%!important;margin-top:0px!important;margin-right:0px!important;margin-left:auto!important;margin-right:auto!important;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:3%}@media only screen and (max-width:980px){.et_pb_image_0_tb_footer .et_pb_image_wrap img,.et_pb_image_1_tb_footer .et_pb_image_wrap img,.et_pb_image_2_tb_footer .et_pb_image_wrap img,.et_pb_image_3_tb_footer .et_pb_image_wrap img,.et_pb_image_4_tb_footer .et_pb_image_wrap img,.et_pb_image_5_tb_footer .et_pb_image_wrap img,.et_pb_image_6_tb_footer .et_pb_image_wrap img,.et_pb_image_7_tb_footer .et_pb_image_wrap img,.et_pb_image_8_tb_footer .et_pb_image_wrap img,.et_pb_image_9_tb_footer .et_pb_image_wrap img,.et_pb_image_10_tb_footer .et_pb_image_wrap img{width:auto}}@media only screen and (max-width:767px){.et_pb_image_0_tb_footer .et_pb_image_wrap img,.et_pb_image_1_tb_footer .et_pb_image_wrap img,.et_pb_image_2_tb_footer .et_pb_image_wrap img,.et_pb_image_3_tb_footer .et_pb_image_wrap img,.et_pb_image_4_tb_footer .et_pb_image_wrap img,.et_pb_image_5_tb_footer .et_pb_image_wrap img,.et_pb_image_6_tb_footer .et_pb_image_wrap img,.et_pb_image_7_tb_footer .et_pb_image_wrap img,.et_pb_image_8_tb_footer .et_pb_image_wrap img,.et_pb_image_9_tb_footer .et_pb_image_wrap img,.et_pb_image_10_tb_footer .et_pb_image_wrap img{width:auto}}margin:auto;margin:auto;.et_pb_row_0.et_pb_row,.et_pb_row_2.et_pb_row{padding-top:0px!important;padding-bottom:0px!important;margin-top:0px!important;margin-bottom:0px!important;padding-top:0px;padding-bottom:0px}.et_pb_row_1.et_pb_row{padding-bottom:0px!important;margin-bottom:0px!important;padding-bottom:0px}.et_pb_row_2{background-color:#00bce3}.et_pb_row_2,body #page-container .et-db #et-boc .et-l .et_pb_row_2.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_2.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_2.et_pb_row{max-width:900px}.et_pb_slide_0.et_pb_slide .et_pb_slide_overlay_container{background-color:rgba(0,0,0,0.47)}.et_pb_slide_0,.et_pb_slide_1{background-color:#ffffff}.et_pb_slider_0.et_pb_slider .et_pb_slide_description .et_pb_slide_title{font-size:26px!important}.et_pb_slider_0.et_pb_slider{overflow-x:hidden;overflow-y:hidden}.et_pb_slider_0>.box-shadow-overlay,.et_pb_slider_0.et-box-shadow-no-overlay{box-shadow:inset 0px 0px 10px 0px rgba(0,0,0,0.1)}.et_pb_slider_0 .et_pb_slide{background-position:top left}.et_pb_blurb_0.et_pb_blurb .et_pb_module_header,.et_pb_blurb_0.et_pb_blurb .et_pb_module_header a{line-height:1.7em}.et_pb_blurb_0.et_pb_blurb{color:#ffffff!important;background-color:#02b9df;padding-top:30px!important;padding-right:20px!important;padding-bottom:30px!important;padding-left:20px!important}.et_pb_blurb_0 .et-pb-icon{color:#ffffff;font-family:ETmodules!important;font-weight:400!important}.et_pb_slider .et_pb_slide_0{background-position:left top;background-image:url(https://www.beachclubblankenberge.be/wp-content/uploads/2018/01/inschrijving-surfcamps.jpg);background-color:#ffffff}.et_pb_slider .et_pb_slide_1{background-position:left top;background-image:url(https://www.beachclubblankenberge.be/wp-content/uploads/2014/12/OBCB2017.jpg);background-color:#ffffff}@media only screen and (max-width:980px){.et_pb_slider_0.et_pb_slider .et_pb_slides .et_pb_slide_description .et_pb_slide_title{font-size:23px!important}}</style>
-<link rel="stylesheet" id="et-core-unified-1222-cached-inline-styles" href="https://www.beachclubblankenberge.be/wp-content/et-cache/1222/et-core-unified-1222.min.css?ver=1747390632"><link rel="stylesheet" as="style" id="et-core-unified-tb-7613-deferred-1222-cached-inline-styles" href="https://www.beachclubblankenberge.be/wp-content/et-cache/1222/et-core-unified-tb-7613-deferred-1222.min.css?ver=1747390632" onload="this.onload=null;this.rel='stylesheet';"><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
-<body data-rsssl="1" class="wp-singular page-template-default page page-id-1222 wp-theme-Divi wp-child-theme-Divi-child et-tb-has-template et-tb-has-footer et_pb_button_helper_class et_fixed_nav et_show_nav et_secondary_nav_enabled et_secondary_nav_two_panels et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_cover_background et_pb_gutter windows et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db chrome">
-	<div id="page-container" style="padding-top: 91px; margin-top: -1px;" class="et-animated-content">
+<link rel="stylesheet" id="et-core-unified-1222-cached-inline-styles" href="https://www.beachclubblankenberge.be/wp-content/et-cache/1222/et-core-unified-1222.min.css?ver=1747390632"><link rel="stylesheet" as="style" id="et-core-unified-tb-7613-deferred-1222-cached-inline-styles" href="https://www.beachclubblankenberge.be/wp-content/et-cache/1222/et-core-unified-tb-7613-deferred-1222.min.css?ver=1747390632" onload="this.onload=null;this.rel='stylesheet';"><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style>
+
+	<div id="page-container" style="padding-top: 62px; margin-top: -1px;" class="et-animated-content">
 <div id="et-boc" class="et-boc">
 			
-				<div id="top-header" class="et-fixed-header">
-		<div class="container clearfix">
-
+				<div id="top-header" class="">
 		
-			<div id="et-info">
-							<span id="et-info-phone">+32 (0)50 69 43 13</span>
-			
-							<a href="mailto:info@beachclubblankenberge.be"><span id="et-info-email">info@beachclubblankenberge.be</span></a>
-			
-			<ul class="et-social-icons">
-
-	<li class="et-social-icon et-social-facebook">
-		<a href="https://www.facebook.com/BeachclubBlankenberge" class="icon" target="_blank">
-			<span>Facebook</span>
-		</a>
-	</li>
-	<li class="et-social-icon et-social-instagram">
-		<a href="https://www.instagram.com/beachclub_blankenberge/" class="icon" target="_blank">
-			<span>Instagram</span>
-		</a>
-	</li>
-
-</ul>			</div>
-
-		
-			<div id="et-secondary-menu">
-			<div class="et_duplicate_social_icons">
-							<ul class="et-social-icons">
-
-	<li class="et-social-icon et-social-facebook">
-		<a href="https://www.facebook.com/BeachclubBlankenberge" class="icon" target="_blank">
-			<span>Facebook</span>
-		</a>
-	</li>
-	<li class="et-social-icon et-social-instagram">
-		<a href="https://www.instagram.com/beachclub_blankenberge/" class="icon" target="_blank">
-			<span>Instagram</span>
-		</a>
-	</li>
-
-</ul>
-						</div>			</div>
-
-		</div>
 	</div>
 
 
-	<header id="main-header" data-height-onload="62" data-height-loaded="true" data-fixed-height-onload="0" style="top: 30px;" class="et-fixed-header">
-		<div class="container clearfix et_menu_container">
-					<div class="logo_container">
-				<span class="logo_helper"></span>
-				<a href="https://www.beachclubblankenberge.be/">
-				<img src="https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/beachclubblankendberge.jpg" width="372" height="110" alt="Beachclub Blankenberge" id="logo" data-height-percentage="54" data-actual-width="372" data-actual-height="110">
-				</a>
-			</div>
-					<div id="et-top-navigation" data-height="34" data-fixed-height="40" style="padding-left: 222px;">
-									<nav id="top-menu-nav">
-					<ul id="top-menu" class="nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-132"><a href="https://www.beachclubblankenberge.be/">Home</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="?page_id=9#golfsurf">Golfsurf</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134"><a href="?page_id=9#SUP">SUP</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-135"><a href="?page_id=9#kitesurf">Kitesurf</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136"><a href="?page_id=9#windsurf">Windsurf</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-137"><a href="?page_id=9#beachclub">Beachclub</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138"><a href="?page_id=9#meteo">Meteo</a></li>
-</ul>					</nav>
-				
-				
-				
-				
-				<div id="et_mobile_nav_menu">
-				<div class="mobile_nav closed">
-					<span class="select_page">Selecteer een pagina</span>
-					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
-				<ul id="mobile_menu" class="et_mobile_menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-132 et_first_mobile_item"><a href="https://www.beachclubblankenberge.be/">Home</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="?page_id=9#golfsurf">Golfsurf</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134"><a href="?page_id=9#SUP">SUP</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-135"><a href="?page_id=9#kitesurf">Kitesurf</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136"><a href="?page_id=9#windsurf">Windsurf</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-137"><a href="?page_id=9#beachclub">Beachclub</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138"><a href="?page_id=9#meteo">Meteo</a></li>
-</ul></div>
-			</div>			</div> <!-- #et-top-navigation -->
-		</div> <!-- .container -->
-			</header> <!-- #main-header -->
+	 <!-- #main-header -->
 <div id="et-main-area">
 	
 <div id="main-content">
@@ -262,25 +225,7 @@ jqueryParams.length&&$.each(jqueryParams,function(e,r){if("function"==typeof r){
 				
 				
 				
-				<div class="et_pb_row et_pb_row_0">
-				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				
-				
-				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
-				
-				
-				
-				
-				<div class="et_pb_text_inner"><p><a href="http://www.oneillbeachclub.com">HOME</a>&nbsp;&nbsp;&gt; Beachcam</p></div>
-			</div>
-			</div>
-				
-				
-				
-				
-			</div><div class="et_pb_row et_pb_row_1">
+				<div class="et_pb_row et_pb_row_1">
 				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
@@ -292,75 +237,7 @@ jqueryParams.length&&$.each(jqueryParams,function(e,r){if("function"==typeof r){
 				
 				
 				<div class="et_pb_text_inner"><p align="center"><iframe src="https://ipcamlive.com/player/player.php?alias=obckitecam&amp;autoplay=1" width="900px" height="505px" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-<div id="ConnectiveDocSignExtentionInstalled" data-extension-version="1.0.4">&nbsp;</div></div>
-			</div>
-			</div>
-				
-				
-				
-				
-			</div><div class="et_pb_row et_pb_row_2 et_pb_gutters1">
-				<div class="et_pb_column et_pb_column_2_3 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough">
-				
-				
-				
-				
-				<div class="et_pb_module et_pb_slider et_pb_slider_0 et_pb_slider_fullwidth_off et_slider_auto et_slider_speed_4500 has-box-shadow-overlay et_slide_transition_to_next et_pb_bg_layout_dark" data-active-slide="et_pb_slide_1"><div class="box-shadow-overlay"></div>
-				<div class="et_pb_slides">
-					<div class="et_pb_slide et_pb_slide_0 et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slider_with_overlay et-pb-moved-slide" data-slide-id="et_pb_slide_0" style="z-index: 2; display: none; opacity: 0;">
-				
-				<div class="et_pb_slide_overlay_container"></div>
-				<div class="et_pb_container clearfix" style="height: 175.2px;">
-					<div class="et_pb_slider_container_inner">
-						
-						<div class="et_pb_slide_description">
-							<h2 class="et_pb_slide_title"><a href="?p=637">Nog niet ingeschreven voor onze Surfcamps? Wees snel!</a></h2>
-							<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_more_button" href="?p=637">BOEK NU!</a></div>
-						</div>
-					</div>
-				</div>
-				
-				
-				
-			</div>
-			<div class="et_pb_slide et_pb_slide_1 et_pb_bg_layout_dark et_pb_media_alignment_center et-pb-active-slide" data-slide-id="et_pb_slide_1" style="z-index: 1; display: block; opacity: 1;">
-				
-				
-				<div class="et_pb_container clearfix" style="height: 175.2px;">
-					<div class="et_pb_slider_container_inner">
-						
-						<div class="et_pb_slide_description">
-							<h2 class="et_pb_slide_title"><a href="?page_id=1110">Nog geen lid van Beachclub Blankenberge of uw jaarlijks lidmaatschap nog niet vernieuwd?</a></h2>
-							<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_more_button" href="?page_id=1110">WORD LID</a></div>
-						</div>
-					</div>
-				</div>
-				
-				
-				
-			</div>
-			
-				</div>
-				
-			<div class="et-pb-slider-arrows"><a class="et-pb-arrow-prev" href="#"><span>Vorige</span></a><a class="et-pb-arrow-next" href="#"><span>Volgende</span></a></div><div class="et-pb-controllers"><a href="#" class="">1</a><a href="#" class="et-pb-active-control">2</a></div></div>
-			
-			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				
-				
-				<div class="et_pb_module et_pb_blurb et_pb_blurb_0  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_dark">
-				
-				
-				
-				
-				<div class="et_pb_blurb_content">
-					<div class="et_pb_main_blurb_image"><a href="https://www.facebook.com/BeachclubBlankenberge" target="_blank"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon et-animated"></span></span></a></div>
-					<div class="et_pb_blurb_container">
-						<h4 class="et_pb_module_header"><a href="https://www.facebook.com/BeachclubBlankenberge" target="_blank">VOLG ONS OP FACEBOOK</a></h4>
-						
-					</div>
-				</div>
+</div>
 			</div>
 			</div>
 				
@@ -383,59 +260,7 @@ jqueryParams.length&&$.each(jqueryParams,function(e,r){if("function"==typeof r){
 
 	<footer class="et-l et-l--footer">
 			<div class="et_builder_inner_content et_pb_gutters3">
-		<div class="et_pb_section et_pb_section_0_tb_footer et_pb_with_background et_section_regular">
-				
-				
-				
-				
-				
-				
-				<div class="et_pb_row et_pb_row_0_tb_footer et_pb_equal_columns">
-				<div class="et_pb_column et_pb_column_1_3 et_pb_column_0_tb_footer  et_pb_css_mix_blend_mode_passthrough">
-				
-				
-				
-				
-				<div class="et_pb_module et_pb_image et_pb_image_0_tb_footer">
-				
-				
-				
-				
-				<a href="https://www.protest.eu/" target="_blank"><span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="350" height="150" src="https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/protest.png" alt="" title="protest" srcset="https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/protest.png 350w, https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/protest-150x64.png 150w" sizes="(max-width: 350px) 100vw, 350px" class="wp-image-7698"></span></a>
-			</div>
-			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_1_tb_footer  et_pb_css_mix_blend_mode_passthrough">
-				
-				
-				
-				
-				<div class="et_pb_module et_pb_image et_pb_image_1_tb_footer">
-				
-				
-				
-				
-				<a href="https://www.blankenberge.be/" target="_blank"><span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="350" height="150" src="https://www.beachclubblankenberge.be/wp-content/uploads/2018/01/blankenberge-1.jpg" alt="" title="blankenberge" srcset="https://www.beachclubblankenberge.be/wp-content/uploads/2018/01/blankenberge-1.jpg 350w, https://www.beachclubblankenberge.be/wp-content/uploads/2018/01/blankenberge-1-150x64.jpg 150w" sizes="(max-width: 350px) 100vw, 350px" class="wp-image-2594"></span></a>
-			</div>
-			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_2_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				
-				
-				<div class="et_pb_module et_pb_image et_pb_image_2_tb_footer">
-				
-				
-				
-				
-				<a href="http://www.wwsv.be/" target="_blank"><span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="350" height="150" src="https://www.beachclubblankenberge.be/wp-content/uploads/2018/01/wwsv.jpg" alt="" title="wwsv" srcset="https://www.beachclubblankenberge.be/wp-content/uploads/2018/01/wwsv.jpg 350w, https://www.beachclubblankenberge.be/wp-content/uploads/2018/01/wwsv-150x64.jpg 150w" sizes="(max-width: 350px) 100vw, 350px" class="wp-image-2521"></span></a>
-			</div>
-			</div>
-				
-				
-				
-				
-			</div>
-				
-				
-			</div><div class="et_pb_section et_pb_section_1_tb_footer et_section_regular">
+		<div class="et_pb_section et_pb_section_1_tb_footer et_section_regular">
 				
 				
 				
@@ -443,61 +268,7 @@ jqueryParams.length&&$.each(jqueryParams,function(e,r){if("function"==typeof r){
 				
 				
 				<div class="et_pb_row et_pb_row_1_tb_footer et_pb_equal_columns">
-				<div class="et_pb_column et_pb_column_4_4 et_pb_column_3_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
-				
-				
-				
-				<div class="et_pb_module et_pb_image et_pb_image_3_tb_footer">
-				
-				
-				
-				
-				<a href="https://www.thebreeze.be/" target="_blank"><span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="150" height="96" src="https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/THE-BREEZE-2025-1-150x96.jpg" alt="" title="THE BREEZE 2025" srcset="https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/THE-BREEZE-2025-1-150x96.jpg 150w, https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/THE-BREEZE-2025-1.jpg 311w" sizes="(max-width: 150px) 100vw, 150px" class="wp-image-7557"></span></a>
-			</div><div class="et_pb_module et_pb_image et_pb_image_4_tb_footer">
-				
-				
-				
-				
-				<a href="https://www.jupiler.be/nl" target="_blank"><span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="150" height="57" src="https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/JUPILER-2-150x57.jpg" alt="" title="JUPILER" srcset="https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/JUPILER-2-150x57.jpg 150w, https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/JUPILER-2.jpg 354w" sizes="(max-width: 150px) 100vw, 150px" class="wp-image-7705"></span></a>
-			</div><div class="et_pb_module et_pb_image et_pb_image_5_tb_footer">
-				
-				
-				
-				
-				<a href="https://legrandcafe-blankenberge.be/" target="_blank"><span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="150" height="36" src="https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/LE-GRAND-CAFE-150x36.jpg" alt="" title="LE GRAND CAFE" srcset="https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/LE-GRAND-CAFE-150x36.jpg 150w, https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/LE-GRAND-CAFE-398x95.jpg 398w, https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/LE-GRAND-CAFE.jpg 441w" sizes="(max-width: 150px) 100vw, 150px" class="wp-image-7701"></span></a>
-			</div><div class="et_pb_module et_pb_image et_pb_image_6_tb_footer">
-				
-				
-				
-				
-				<a href="https://www.protestsurfschool.be/" target="_blank"><span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="150" height="41" src="https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/Surschool_Export-150x41.jpg" alt="" title="Surschool_Export" class="wp-image-7559"></span></a>
-			</div><div class="et_pb_module et_pb_image et_pb_image_7_tb_footer">
-				
-				
-				
-				
-				<a href="https://www.brugge.be/uitpas" target="_blank"><span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="150" height="72" src="https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/UITPAS-regio-Brugge-150x72.jpg" alt="" title="UITPAS - regio Brugge" class="wp-image-7560"></span></a>
-			</div><div class="et_pb_module et_pb_image et_pb_image_8_tb_footer">
-				
-				
-				
-				
-				<a href="https://www.blueprinteyewear.com/" target="_blank"><span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="150" height="37" src="https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/blueprint-logo-with-icon-2019-150x37.png" alt="" title="blueprint-logo-with-icon-2019" class="wp-image-7703"></span></a>
-			</div><div class="et_pb_module et_pb_image et_pb_image_9_tb_footer">
-				
-				
-				
-				
-				<a href="https://www.evian.com/nl_be" target="_blank"><span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="150" height="113" src="https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/evian-logo_LiveYoung_2014-1-150x113.jpg" alt="" title="evian logo_LiveYoung_2014" class="wp-image-7708"></span></a>
-			</div><div class="et_pb_module et_pb_image et_pb_image_10_tb_footer">
-				
-				
-				
-				
-				<a href="https://raesmotoren.be/" target="_blank"><span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="150" height="73" src="https://www.beachclubblankenberge.be/wp-content/uploads/2025/05/RAES-MOTOREN-150x73.jpg" alt="" title="RAES MOTOREN" class="wp-image-7702"></span></a>
-			</div>
-			</div>
 				
 				
 				
@@ -512,49 +283,7 @@ jqueryParams.length&&$.each(jqueryParams,function(e,r){if("function"==typeof r){
 				
 				
 				
-				<div class="et_pb_row et_pb_row_2_tb_footer">
-				<div class="et_pb_column et_pb_column_1_3 et_pb_column_4_tb_footer  et_pb_css_mix_blend_mode_passthrough">
 				
-				
-				
-				
-				<div class="et_pb_module et_pb_text et_pb_text_0_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
-				
-				
-				
-				
-				<div class="et_pb_text_inner"><p style="text-align: center;"><span>© 2025 – </span><b>Beachclub</b><span> </span><b>Blankenberge</b><span> </span></p></div>
-			</div>
-			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_5_tb_footer  et_pb_css_mix_blend_mode_passthrough">
-				
-				
-				
-				
-				<div class="et_pb_module et_pb_text et_pb_text_1_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
-				
-				
-				
-				
-				<div class="et_pb_text_inner"><p style="text-align: center;"><a href="https://beachclubblankenberge.be/privacy-beleid/" target="_blank" rel="noopener">PRIVACY BELEID</a></p></div>
-			</div>
-			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_6_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				
-				
-				<div class="et_pb_module et_pb_text et_pb_text_2_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
-				
-				
-				
-				
-				<div class="et_pb_text_inner"><p style="text-align: center;"><span>website by </span><a href="http://www.pixelguru.be" target="_blank" rel="noopener"><img loading="lazy" decoding="async" src="https://www.pixelguru.be/pixelguru-dark-transp.png" width="100" height="30"></a></p></div>
-			</div>
-			</div>
-				
-				
-				
-				
-			</div>
 				
 				
 			</div>		</div>
@@ -585,4 +314,13 @@ var et_pb_box_shadow_elements = [".et_pb_slider_0",".et_pb_slider_0",".et_pb_sli
 <script id="ocvars">var ocSiteMeta = {plugins: {"a3e4aa5d9179da09d8af9b6802f861a8": 1,"b904efd4c2b650207df23db3e5b40c86": 1}}</script>	
 	
 
-</body></html>
+
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  
+
+</body>
